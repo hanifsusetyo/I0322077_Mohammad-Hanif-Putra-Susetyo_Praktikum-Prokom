@@ -1,0 +1,16 @@
+#exercise-01 Praktikum Prokom
+
+print("Mohammad Hanif Putra Susetyo")
+print("I0322077")
+print("Kelas C")
+print()
+print("Nama saya Mohammad Hanif Putra Susetyo, biasa dipanggil Hanif, dan saya berasal dari Cikarang Kab. Bekasi.")
+print("Saya sekarang tinggal di Kota Surakarta, dikarenakan saya sedang menjalani kuliah di Universitas Sebelas Maret,")
+print("lebih tepatnya di jurursan Teknik Industri. Kampung halaman saya berada di Cikarang, Kab. Bekasi. Di tempat saya")
+print("menghabiskan masa kecil saya ini, banyak sekali hal-hal yang unik, seperti kawasan industri JBAABEKA, yang")
+print("merupakan salah satu kawasan industri terbesar di Indonesia. Jadi jangan heran jika suatu saat nanti berkunjung")
+print("ke Cikarang, banyak sekali pabrik disana.")
+print()
+print("Harapan saya sebagai lulusan Teknik Industri adalah bisa menjadi seseorang yang berdampak terhadap perkembangan")
+print("suatu industri, mulai dari perkembangan perusahaan tempat saya bekerja nanti, ataupun terhadap perkembangan")
+print("industri di Indonesia.")
